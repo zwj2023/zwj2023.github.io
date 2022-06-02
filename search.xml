@@ -6,20 +6,6 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title></title>
-    <url>/2022/06/02/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%93%8D%E4%BD%9C/</url>
-    <content><![CDATA[<p>数据库的第一次操作 nsash1dasdnd</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我的第一次</title>
-    <url>/2022/06/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>你哈 在哪做呢</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/06/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -36,5 +22,34 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/06/02/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%93%8D%E4%BD%9C/</url>
+    <content><![CDATA[<p>数据库的第一次操作 nsash1dasdnd</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>python学习</title>
+    <url>/2016/10/13/python%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h2 id="python学习"><a href="#python学习" class="headerlink" title="python学习"></a>python学习</h2><p>首先python是c++语言作为底层，也同时满足面向对象的语言类型，里面包含多种库可以方便快捷的开发</p>
+<p>利用</p>
+]]></content>
+      <categories>
+        <category>基础语法</category>
+        <category>特色他</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一次</title>
+    <url>/2022/06/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>你哈 在哪做呢</tag>
+      </tags>
   </entry>
 </search>
